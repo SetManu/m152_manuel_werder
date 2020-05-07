@@ -17,6 +17,8 @@
 
 vendor/
 
+.*~
+
 # Generated files
 .idea/**/contentModel.xml
 
