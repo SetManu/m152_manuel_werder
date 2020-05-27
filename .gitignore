@@ -147,3 +147,4 @@ modules.xml
 # Sonarlint plugin
 
 # End of https://www.gitignore.io/api/phpstorm+all,webstorm+all
+/.env
