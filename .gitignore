@@ -148,3 +148,4 @@ modules.xml
 
 # End of https://www.gitignore.io/api/phpstorm+all,webstorm+all
 /.env
+/package-lock.json
